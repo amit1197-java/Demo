@@ -8,7 +8,7 @@ public class MsgController {
 
 	@GetMapping
 	public String msg() {
-	    return "<h1> hello </h1>";
+	    return "<h1> hello world</h1>";
 	}
 
 	
